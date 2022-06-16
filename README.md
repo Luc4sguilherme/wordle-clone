@@ -7,6 +7,7 @@
 This project was developed with the following technologies:
 
 -  [Nodejs][nodejs]
+-  [Vitejs][vitejs]
 -  [RapidAPI][rapidapi]
 -  [Express][express]
 -  [TypeScript][Typescript]
@@ -25,6 +26,15 @@ From your command line:
 
   - Run the server app: `npm start`
 
+### Web
+  - Install dependencies: `npm install`
+
+  - Create a `.env` file by following the `.env.example` file
+
+  - Run the web app: `npm run dev`
+
+### Access the URL in your browser: `http://localhost:3000`
+
 ## Author
 
 👤 **Lucas Guilherme**
@@ -36,4 +46,5 @@ From your command line:
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/
 [rapidapi]: https://rapidapi.com/
+[vitejs]: https://vitejs.dev/
 [typescript]: https://www.typescriptlang.org/
